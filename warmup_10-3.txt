@@ -1,0 +1,30 @@
+<!doctype html>
+
+<html> 
+
+<head>
+	<meta charset="UTF-8">
+	<title>Tables</title>
+</head>
+
+<body>
+	<!--main table-->
+	<table border="1" width="100%" height="200" align="center">
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		
+		<tr>
+			<td></td>
+			<td></td>
+
+	</table>
+
+</body>
+</html>
