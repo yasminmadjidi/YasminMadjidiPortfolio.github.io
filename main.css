@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+		body{
+			font:100%;  			
+			background:#ffccdd;}
+		h1{
+			font:300%;
+			color:#4d4d4d;
+			text-align:center;}
+		h2{
+			font:200%;
+			color:#4d4d4d;
+			text-align:center;}
+		p{
+			color:#7f7f7f;}
+		#wrapper{
+			width:1100px;
+			margin:0 auto;
+			padding:0 50px;
+			text-align:left;
+			position:relative;}
+		header{
+			height:185px;
+			background:url(images/logo.png)no-repeat 25px center;
+			padding:0 75px 0 300px;
+			position:relative;
+			border-bottom:2px solid #7f7f7f;
+			margin-bottom:16px;
+			color:#4d4d4d;}
+		header{
+			margin-top:16px;}
+		header ul{
+			list-style:none;
+			float:left;}
+		header ul li{
+			float:left;}
+		header ul li a{
+			font-family:Arial, Helvetica;
+			font-size:20px;
+			color:#000;
+			padding:0 20px;
+			border-right:1px solid #000;
+			text-decoration:none;}
+		header ul li a:hover{
+			color:#660066}
+		section#content {
+			float:left;
+			width:600px;
+			padding: 0 10px 0 25px;
+			margin-bottom:10px;
+			border-right:1px solid #7f7f7f;}
+		section#content p{
+			color: #666;
+			line-height: 1.6;
+			margin-bottom: 10px;}
+		section#content ul li{
+			color: #666;}
+		aside#hobbies {
+			font-size: 90%;
+			float: right;
+			width: 450px;
+			margin-bottom: 20px;}
+		footer#pageFooter {
+			clear: both;
+			border-top: 2px solid #7f7f7f;
+			padding: 20px;}
+		footer#pageFooter p {
+			text-align: center;
+			font-style: italic;
+			margin-bottom: 10px;
+			color: #666;}
